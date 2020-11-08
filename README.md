@@ -1,8 +1,8 @@
 
 ### Wisdom Token List
 
-`ipfs://QmTU1sJ9cjA1uGDsAxsDbSW7jNZZwDe2cMjELUTivyhXA3`
+`ipfs://QmVsSosaDPGs4mmN3e3ds8BES74522Jri6w9kDzMftetTR`
 
-IPFS CID: `QmTU1sJ9cjA1uGDsAxsDbSW7jNZZwDe2cMjELUTivyhXA3`
+IPFS CID: `QmVsSosaDPGs4mmN3e3ds8BES74522Jri6w9kDzMftetTR`
 
-https://ipfs.io/ipfs/QmTU1sJ9cjA1uGDsAxsDbSW7jNZZwDe2cMjELUTivyhXA3?filename=wisdom.tokenlist.json
+https://ipfs.io/ipfs/QmVsSosaDPGs4mmN3e3ds8BES74522Jri6w9kDzMftetTR?filename=wisdom.tokenlist.json
