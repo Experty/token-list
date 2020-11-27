@@ -21,7 +21,8 @@
       "address": "0xDecade1c6Bf2cD9fb89aFad73e4a519C867adcF5",
       "symbol": "WIS",
       "decimals": 18,
-      "chainId": 1
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/gkucmierz/wisdom-token-list/master/assets/wisdom.jpg"
     },
     {
       "name": "Dai Stablecoin",
