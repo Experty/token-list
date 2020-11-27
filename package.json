@@ -1,6 +1,6 @@
 {
   "name": "token-lists",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Wisdom Token List",
   "main": "index.js",
   "scripts": {
