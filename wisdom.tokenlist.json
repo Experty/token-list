@@ -17,11 +17,11 @@
   ],
   "tokens": [
     {
-      "address": "0xDecade1c6Bf2cD9fb89aFad73e4a519C867adcF5",
-      "chainId": 1,
       "name": "Experty Wisdom Token",
+      "address": "0xDecade1c6Bf2cD9fb89aFad73e4a519C867adcF5",
       "symbol": "WIS",
-      "decimals": 18
+      "decimals": 18,
+      "chainId": 1
     },
     {
       "name": "Dai Stablecoin",
