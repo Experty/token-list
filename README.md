@@ -1,6 +1,14 @@
 
 ### Wisdom Token List
 
-IPFS CID: `QmTU1sJ9cjA1uGDsAxsDbSW7jNZZwDe2cMjELUTivyhXA3`
+`ipfs://QmYQs5H3p5bwEah7FVnZGidqrbYvTrNuX7JfNjkC93eDYU`
 
-https://ipfs.io/ipfs/QmTU1sJ9cjA1uGDsAxsDbSW7jNZZwDe2cMjELUTivyhXA3?filename=wisdom.tokenlist.json
+IPFS CID: `QmYQs5H3p5bwEah7FVnZGidqrbYvTrNuX7JfNjkC93eDYU`
+
+https://ipfs.io/ipfs/QmYQs5H3p5bwEah7FVnZGidqrbYvTrNuX7JfNjkC93eDYU?filename=wisdom.tokenlist.json
+
+### Domain name
+
+`wisdom-token-list.eth`
+
+https://app.ens.domains/name/wisdom-token-list.eth
